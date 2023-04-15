@@ -1,6 +1,6 @@
 coming-soon
 ======================
-[![deploy](https://github.com/arkn98/coming-soon/workflows/deploy/badge.svg)](https://github.com/arkn98/coming-soon/actions?query=workflow%3Adeploy)
+[![deploy](https://github.com/kamto7/coming-soon/workflows/deploy/badge.svg)](https://github.com/kamto7/coming-soon/actions?query=workflow%3Adeploy)
 [![license](https://img.shields.io/github/license/arkn98/coming-soon)](LICENSE)
 
 A simple coming soon page, built using [create-react-app](https://github.com/facebook/create-react-app).
@@ -17,16 +17,16 @@ A simple coming soon page, built using [create-react-app](https://github.com/fac
 
 1. Clone this repository
 2. `cd coming-soon` to go into the project root
-3. `yarn` to install dependencies
+3. `pnpm i` to install dependencies
 
 ### Running locally
 
-1. `yarn start` to start the hot-reloading server
+1. `pnpm start` to start the hot-reloading server
 2. open `http://localhost:3000` on your browser
 
 ### Building
 
-1. `yarn build` to build the app
+1. `pnpm build` to build the app
 2. Copy the contents of the `build` folder and serve it with your own server
 
 ## Thanks
